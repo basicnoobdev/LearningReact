@@ -1,5 +1,31 @@
 {
   "dependencies": {
-    "git": "^0.1.5"
-  }
+    "git": "^0.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "namastey-react",
+  "description": "Git repository : \r username :basicnoobdev\r pw : GoodStart@2206",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basicnoobdev/LearningReact.git"
+  },
+  "author": "Mayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basicnoobdev/LearningReact/issues"
+  },
+  "homepage": "https://github.com/basicnoobdev/LearningReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "browserList": [
+    "last 2 versions"
+  ]
 }
